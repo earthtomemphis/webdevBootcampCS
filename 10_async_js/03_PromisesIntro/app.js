@@ -141,5 +141,5 @@ fakeRequestPromise('yelp.com/api/coffee/page1')
 	})
 	.catch((err) => {
 		console.log('OH NO, A REQUEST FAILED!!!');
-		console.log(err);
+		console.error(err);
 	});
