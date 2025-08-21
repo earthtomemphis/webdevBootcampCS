@@ -16,5 +16,25 @@
 		"playto",
 		"WOOOFF",
 		"XMLHTTP"
-	]
+	],
+	"workbench.colorCustomizations": {
+		"activityBar.activeBackground": "#68b540",
+		"activityBar.background": "#68b540",
+		"activityBar.foreground": "#15202b",
+		"activityBar.inactiveForeground": "#15202b99",
+		"activityBarBadge.background": "#436cbc",
+		"activityBarBadge.foreground": "#e7e7e7",
+		"commandCenter.border": "#e7e7e799",
+		"sash.hoverBorder": "#68b540",
+		"statusBar.background": "#528f33",
+		"statusBar.foreground": "#e7e7e7",
+		"statusBarItem.hoverBackground": "#68b540",
+		"statusBarItem.remoteBackground": "#528f33",
+		"statusBarItem.remoteForeground": "#e7e7e7",
+		"titleBar.activeBackground": "#528f33",
+		"titleBar.activeForeground": "#e7e7e7",
+		"titleBar.inactiveBackground": "#528f3399",
+		"titleBar.inactiveForeground": "#e7e7e799"
+	},
+	"peacock.color": "#528f33"
 }
